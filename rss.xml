@@ -1,4 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Ian Clare]]></title><description><![CDATA[I blog about stuff.]]></description><link>https://iclare.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 23 Jan 2020 03:12:10 GMT</lastBuildDate><item><title><![CDATA[Hello World]]></title><description><![CDATA[This is my first post on my new blog / personal site! I set this blog up for a course I’m taking at RIT HFOSS. Setting up this blog was an…]]></description><link>https://iclare.github.io/hello-world/</link><guid isPermaLink="false">https://iclare.github.io/hello-world/</guid><pubDate>Wed, 22 Jan 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;This is my first post on my new blog / personal site!&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Ian Clare]]></title><description><![CDATA[I blog about stuff.]]></description><link>https://iclare.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 31 Jan 2020 13:43:25 GMT</lastBuildDate><item><title><![CDATA[Programming is Forgetting]]></title><description><![CDATA[Allison Parish’s presentation at the Open Hardware Summit 2016
+Programming is Forgetting: Toward a New Hacker Ethic I might disagree with…]]></description><link>https://iclare.github.io/programming-is-forgetting/</link><guid isPermaLink="false">https://iclare.github.io/programming-is-forgetting/</guid><pubDate>Fri, 31 Jan 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Allison Parish’s presentation at the Open Hardware Summit 2016
+&lt;a href=&quot;http://opentranscripts.org/transcript/programming-forgetting-new-hacker-ethic/&quot;&gt;Programming is Forgetting: Toward a New Hacker Ethic&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I might disagree with the conclusion, but I did enjoy watching this talk. I do agree that the literal interpretation of the hacker ethic is flawed, but I do still think that
+it is valuable. Although the hacker ethic came from Levy’s book, it does not have to define what the hacker ethic is.&lt;/p&gt;
+&lt;p&gt;In my opinion there are better interpretations for the hacker ethic tenants from Levy’s book, and should be considered with a context.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Access to computers should be unlimited and total.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;While Allison points to ‘hackers’ as having denied Margaret Hamilton from access, I’d argue that this is a bad example of the hacker ethic as the denial of access was not intentional.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;All information should be free.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;I don’t believe this should be interpreted literally. I believe we should strive to be open with information, but of course there is some information that simply cannot be shared such as personal information. It’s also important to consider that many jobs and economies rely on the fact that information can be treated as a commodity.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Mistrust authority. Promote decentralization.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;This I agree with for the most part. Decentralization should be the ideal when we can avoid compromise in another ideal such as access.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Hello World]]></title><description><![CDATA[This is my first post on my new blog / personal site! I set this blog up for a course I’m taking at RIT HFOSS. Setting up this blog was an…]]></description><link>https://iclare.github.io/hello-world/</link><guid isPermaLink="false">https://iclare.github.io/hello-world/</guid><pubDate>Wed, 22 Jan 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;This is my first post on my new blog / personal site!&lt;/p&gt;
 &lt;p&gt;I set this blog up for a course I’m taking at RIT &lt;a href=&quot;https://github.com/ritjoe/hfoss&quot;&gt;HFOSS&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Setting up this blog was an interesting process.&lt;/p&gt;
 &lt;p&gt;I decided to create my blog using GitHub Pages as I’m familiar with GitHub. I also figured GitHub Pages
