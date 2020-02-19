@@ -12,9 +12,9 @@ that there is an issue with the philosophy of open source, at least in the open
 source initiative's mission statement.
 
 > Open source is a development method for software that harnesses the power of
-> distributed peer review and transparency of process. The promise of open source
-> is better quality, higher reliability, more flexibility, lower cost, and an end
-> to predatory vendor lock-in.
+> distributed peer review and transparency of process. The promise of open
+> source is better quality, higher reliability, more flexibility, lower cost,
+> and an end to predatory vendor lock-in.
 
 Hill argues that the Open Source's definition for software devalues Free
 Software Projects. He argues that it has been shown that proprietary software
@@ -42,3 +42,18 @@ aspects of software to argue towards contributing to free software projects,
 while the open source initiative argues that "open sourcing" your project will
 lead to higher quality projects, which is not always the case.
 
+I give the article 0b100 out of 0b101. I would have liked to have known Hill's
+thoughts on combining the ideologies of open source and free software. While
+the free software foundation focuses on ethics of free / open software, the
+open source initiative focuses on the merits of free / open software.
+
+Some food for thought:
+
+Doesn't a separation of idealogies cause a rift among developers, and actually
+discourage collaboration / openness?
+
+Can't the open source initiative and free software foundation combine their
+efforts and idealogies?
+
+If it's technically difficult to combine their efforts, isn't that evidence of
+my first question?
