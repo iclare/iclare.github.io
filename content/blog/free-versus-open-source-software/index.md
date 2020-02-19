@@ -57,3 +57,6 @@ efforts and idealogies?
 
 If it's technically difficult to combine their efforts, isn't that evidence of
 my first question?
+
+If combining the efforts of both organizations resulted in one larger organization,
+would that violate the ideal for decentralization?
