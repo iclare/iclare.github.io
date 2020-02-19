@@ -1,4 +1,38 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Ian Clare]]></title><description><![CDATA[I blog about stuff.]]></description><link>https://iclare.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 09 Feb 2020 00:50:25 GMT</lastBuildDate><item><title><![CDATA[Software Licenses]]></title><description><![CDATA[You’ve probably seen some variation of these popular licenses: BSD (Original, Modified, Free) ISC MIT (Expat, X11) What’s the difference…]]></description><link>https://iclare.github.io/software-licenses/</link><guid isPermaLink="false">https://iclare.github.io/software-licenses/</guid><pubDate>Sat, 08 Feb 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;You’ve probably seen some variation of these popular licenses:&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Ian Clare]]></title><description><![CDATA[I blog about stuff.]]></description><link>https://iclare.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 19 Feb 2020 01:03:55 GMT</lastBuildDate><item><title><![CDATA[Free Versus Open Source Software]]></title><description><![CDATA[This blog post is about my thoughts on an article by Benjamin Mako Hill.
+When Free Software Isn’t Better Benjamin Mako Hill, a board…]]></description><link>https://iclare.github.io/free-versus-open-source-software/</link><guid isPermaLink="false">https://iclare.github.io/free-versus-open-source-software/</guid><pubDate>Mon, 17 Feb 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;This blog post is about my thoughts on an article by Benjamin Mako Hill.
+&lt;a href=&quot;https://mako.cc/writing/hill-when_free_software_isnt_better.html&quot;&gt;When Free Software Isn’t Better&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Benjamin Mako Hill, a board director for the Free Software Foundation, writes
+that there is an issue with the philosophy of open source, at least in the open
+source initiative’s mission statement.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Open source is a development method for software that harnesses the power of
+distributed peer review and transparency of process. The promise of open source
+is better quality, higher reliability, more flexibility, lower cost, and an end
+to predatory vendor lock-in.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Hill argues that the Open Source’s definition for software devalues Free
+Software Projects. He argues that it has been shown that proprietary software
+can exceed the quality of projects that would be considered open source or free
+software. Hill also points out that many free software projects hosted online
+have at most five contributors; again the open source initiative’s mission
+statement gives one little reason to contribute to these kinds of projects.
+Hill explains that the open source initiative’s mission statement suggests that
+many free software projects with a small number of contributors have no
+advantage over proprietary software. He then compares open source to free
+software; that with free software advocates, these projects with few
+contributors are still seen as a small success; that these projects begin with
+an ethical advantage over any proprietary software.&lt;/p&gt;
+&lt;p&gt;Hill closes his article by stating that the open source initiative should be
+able to defend their mission statement that collaborative development resulting
+from free software results in higher quality software. He also acknowledges
+that there is no need to reject the arguments presented by the open source
+initiative that collaborative development can result in higher quality
+software.&lt;/p&gt;
+&lt;p&gt;I believe that main idea that Hill wants us to take away from his article is
+that the philosophy of the free software foundation is focused on the ethical
+aspects of software to argue towards contributing to free software projects,
+while the open source initiative argues that “open sourcing” your project will
+lead to higher quality projects, which is not always the case.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Software Licenses]]></title><description><![CDATA[You’ve probably seen some variation of these popular licenses: BSD (Original, Modified, Free) ISC MIT (Expat, X11) What’s the difference…]]></description><link>https://iclare.github.io/software-licenses/</link><guid isPermaLink="false">https://iclare.github.io/software-licenses/</guid><pubDate>Sat, 08 Feb 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;You’ve probably seen some variation of these popular licenses:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;BSD (Original, Modified, Free)&lt;/li&gt;
 &lt;li&gt;ISC&lt;/li&gt;
