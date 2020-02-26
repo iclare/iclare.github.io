@@ -1,4 +1,42 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Ian Clare]]></title><description><![CDATA[I blog about stuff.]]></description><link>https://iclare.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 19 Feb 2020 01:42:35 GMT</lastBuildDate><item><title><![CDATA[Free Versus Open Source Software]]></title><description><![CDATA[This blog post is about my thoughts on an article by Benjamin Mako Hill.
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Ian Clare]]></title><description><![CDATA[I blog about stuff.]]></description><link>https://iclare.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 26 Feb 2020 13:15:49 GMT</lastBuildDate><item><title><![CDATA[WebAssembly]]></title><description><![CDATA[Intro to Web Assembly Run native code in the browser. WebAssembly WebAssembly is a low level language that runs with
+near-native performance…]]></description><link>https://iclare.github.io/webassembly/</link><guid isPermaLink="false">https://iclare.github.io/webassembly/</guid><pubDate>Wed, 26 Feb 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Intro to Web Assembly&lt;/p&gt;
+&lt;p&gt;Run native code in the browser.&lt;/p&gt;
+&lt;h1&gt;WebAssembly&lt;/h1&gt;
+&lt;p&gt;WebAssembly is a low level language that runs with
+near-native performance. It is not intended to be written by hand,
+and so provides a compilation target for languages like C/C++ and Rust.
+This means these languages now have a way to run on the web.&lt;/p&gt;
+&lt;h1&gt;So What?&lt;/h1&gt;
+&lt;p&gt;The implications of WebAssembly are pretty big.
+WebAssembly means you can run code written
+in any number of languages, on the web, at near native speed.&lt;/p&gt;
+&lt;p&gt;WebAssembly provides JavaScript APIs so you can load WebAssembly
+modules into a JavaScript app. This means you can
+replace parts of your code written in JavaScript with code
+that targets WebAssembly, for massive performance gains.&lt;/p&gt;
+&lt;p&gt;WebAssembly is being developed as a web standard via W3C and the community groups. WebAssembly 1.0 has already shipped in Firefox, Chrome, Safari, and Edge.&lt;/p&gt;
+&lt;h1&gt;How does it work?&lt;/h1&gt;
+&lt;p&gt;WebAssembly fits into a web platform that comes with web browsers.
+In this web platform, there’s a virtual machine that runs web app code
+(JavaScript), and there’s a set of APIs that can be called to control
+the web platform; APIs like DOM, CSSOM, WebGL.&lt;/p&gt;
+&lt;p&gt;In the past, the VM of web platforms has only been able to load JavaScript.
+While JavaScript works well for most problems on the web, certain applications, like 3D games, VR, AR, image/video editing demand greater performance than an interpreted language can provide.&lt;/p&gt;
+&lt;p&gt;Another issue is that browsers need to receive the full JavaScript source
+of a web app in order to load it. This means large downloads, and on the fly
+compilation that results in stuttering.&lt;/p&gt;
+&lt;p&gt;The small binary and ahead of time compilation of a WebAssembly module
+results in web apps that are much faster to download and run with better
+performance.&lt;/p&gt;
+&lt;h1&gt;How do I get started?&lt;/h1&gt;
+&lt;p&gt;WebAssembly is still a young technology, so garbage collected languages
+are not yet supported. Your best options are to either port a C/C++ application with Emscripten, Write a Rust application targeting WebAssembly as the output, or use AssemblyScript to write TypeScript style code that compiles to a WebAssembly binary. See the links below to get started with either of these options.&lt;/p&gt;
+&lt;h1&gt;See also&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;https://webassembly.org/&quot;&gt;webassembly.org&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://developer.mozilla.org/en-US/docs/WebAssembly/Concepts&quot;&gt;developer.mozilla.org/en-US/docs/WebAssembly/Concepts&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://emscripten.org/docs/getting_started/index.html&quot;&gt;emscripten.org/docs/getting_started&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://developer.mozilla.org/en-US/docs/WebAssembly/Rust_to_wasm&quot;&gt;developer.mozilla.org/en-US/docs/WebAssembly/Rust&lt;em&gt;to&lt;/em&gt;wasm&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://docs.assemblyscript.org/&quot;&gt;docs.assemblyscript.org&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Free Versus Open Source Software]]></title><description><![CDATA[This blog post is about my thoughts on an article by Benjamin Mako Hill.
 When Free Software Isn’t Better Benjamin Mako Hill, a board…]]></description><link>https://iclare.github.io/free-versus-open-source-software/</link><guid isPermaLink="false">https://iclare.github.io/free-versus-open-source-software/</guid><pubDate>Mon, 17 Feb 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;This blog post is about my thoughts on an article by Benjamin Mako Hill.
 &lt;a href=&quot;https://mako.cc/writing/hill-when_free_software_isnt_better.html&quot;&gt;When Free Software Isn’t Better&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Benjamin Mako Hill, a board director for the Free Software Foundation, writes
