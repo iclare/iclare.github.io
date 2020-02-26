@@ -1,8 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Ian Clare]]></title><description><![CDATA[I blog about stuff.]]></description><link>https://iclare.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 26 Feb 2020 13:15:53 GMT</lastBuildDate><item><title><![CDATA[WebAssembly]]></title><description><![CDATA[Intro to Web Assembly Run native code in the browser. WebAssembly WebAssembly is a low level language that runs with
-near-native performance…]]></description><link>https://iclare.github.io/webassembly/</link><guid isPermaLink="false">https://iclare.github.io/webassembly/</guid><pubDate>Wed, 26 Feb 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Intro to Web Assembly&lt;/p&gt;
-&lt;p&gt;Run native code in the browser.&lt;/p&gt;
-&lt;h1&gt;WebAssembly&lt;/h1&gt;
-&lt;p&gt;WebAssembly is a low level language that runs with
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Ian Clare]]></title><description><![CDATA[I blog about stuff.]]></description><link>https://iclare.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 26 Feb 2020 13:21:17 GMT</lastBuildDate><item><title><![CDATA[WebAssembly]]></title><description><![CDATA[WebAssembly is a low level language that runs with
+near-native performance. It is not intended to be written by hand,
+and so provides a…]]></description><link>https://iclare.github.io/webassembly/</link><guid isPermaLink="false">https://iclare.github.io/webassembly/</guid><pubDate>Wed, 26 Feb 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;WebAssembly is a low level language that runs with
 near-native performance. It is not intended to be written by hand,
 and so provides a compilation target for languages like C/C++ and Rust.
 This means these languages now have a way to run on the web.&lt;/p&gt;
