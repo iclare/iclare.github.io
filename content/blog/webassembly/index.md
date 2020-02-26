@@ -4,12 +4,6 @@ date: "2020-02-26"
 description: "Run native code in the browser."
 ---
 
-Intro to Web Assembly
-
-Run native code in the browser.
-
-# WebAssembly
-
 WebAssembly is a low level language that runs with
 near-native performance. It is not intended to be written by hand,
 and so provides a compilation target for languages like C/C++ and Rust.
