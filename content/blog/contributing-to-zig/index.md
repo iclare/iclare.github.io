@@ -10,7 +10,7 @@ that values simplicity, explicitness, and control. I've always been interested
 in high performance and low level programming, so Zig caught my interest. What
 I also like about Zig is that you do not need to learn and use additional
 syntax or keywords, or shift your programming style to convince the language
-that you know what you're doing [Unsafe Zig is Safer than Unsafe](https://andrewkelley.me/post/unsafe-zig-safer-than-unsafe-rust.html).
+that you know what you're doing [Unsafe Zig is Safer than Unsafe Rust](https://andrewkelley.me/post/unsafe-zig-safer-than-unsafe-rust.html).
 
 With Zig, the priority is not just to have a safer language, but also
 to be a small simple language that has no hidden control flow. All control flow
@@ -25,7 +25,7 @@ came just a few months after the previous major release.
 
 Zig doesn't try to compete with languages like Rust or C++, instead it is meant
 to compete with C, and takes advantage of its ecosystem. Among other C related features,
-Zig also ships with ability to translate C into Zig.
+Zig also ships with the ability to translate C into Zig.
 
 Zig's community is another reason why I took interest in the language.
 Zig was created by [Andrew Kelley](https://andrewkelley.me/).
