@@ -52,8 +52,8 @@ integer literal came from a macro substitution, so I had to do some reading of
 the clang API as well.
 
 In retrospect I was probably way too ambitious taking this on considering how
-hard my current semester in has been, but I wanted a fun challenge. Thankfully, the
-Zig's creator architects his code so that it is easy to contribute to the
+hard my current semester in school has been, but I wanted a fun challenge. Thankfully, the
+Zig creator architects his code so that it is easy to contribute to the
 higher level aspects of the project.
 
 I actually had quite a bit more code than what I submitted in the pull request,
