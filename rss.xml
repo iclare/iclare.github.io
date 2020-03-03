@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Ian Clare]]></title><description><![CDATA[I blog about stuff.]]></description><link>https://iclare.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 03 Mar 2020 21:00:43 GMT</lastBuildDate><item><title><![CDATA[Zig]]></title><description><![CDATA[I heard about the Zig programming language, about a
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Ian Clare]]></title><description><![CDATA[I blog about stuff.]]></description><link>https://iclare.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 03 Mar 2020 23:23:22 GMT</lastBuildDate><item><title><![CDATA[Zig]]></title><description><![CDATA[I heard about the Zig programming language, about a
 year ago. In short, Zig is a high performance language with tight C integration
 that…]]></description><link>https://iclare.github.io/contributing-to-zig/</link><guid isPermaLink="false">https://iclare.github.io/contributing-to-zig/</guid><pubDate>Tue, 03 Mar 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;I heard about the &lt;a href=&quot;https://ziglang.org/&quot;&gt;Zig&lt;/a&gt; programming language, about a
 year ago. In short, Zig is a high performance language with tight C integration
@@ -6,7 +6,7 @@ that values simplicity, explicitness, and control. I’ve always been interested
 in high performance and low level programming, so Zig caught my interest. What
 I also like about Zig is that you do not need to learn and use additional
 syntax or keywords, or shift your programming style to convince the language
-that you know what you’re doing &lt;a href=&quot;https://andrewkelley.me/post/unsafe-zig-safer-than-unsafe-rust.html&quot;&gt;Unsafe Zig is Safer than Unsafe&lt;/a&gt;.&lt;/p&gt;
+that you know what you’re doing &lt;a href=&quot;https://andrewkelley.me/post/unsafe-zig-safer-than-unsafe-rust.html&quot;&gt;Unsafe Zig is Safer than Unsafe Rust&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;With Zig, the priority is not just to have a safer language, but also
 to be a small simple language that has no hidden control flow. All control flow
 is made explicit in Zig. Zig also gives you full control over memory, as well
@@ -18,7 +18,7 @@ the project is still changing at a fast pace. the last major release &lt;code cl
 came just a few months after the previous major release.&lt;/p&gt;
 &lt;p&gt;Zig doesn’t try to compete with languages like Rust or C++, instead it is meant
 to compete with C, and takes advantage of its ecosystem. Among other C related features,
-Zig also ships with ability to translate C into Zig.&lt;/p&gt;
+Zig also ships with the ability to translate C into Zig.&lt;/p&gt;
 &lt;p&gt;Zig’s community is another reason why I took interest in the language.
 Zig was created by &lt;a href=&quot;https://andrewkelley.me/&quot;&gt;Andrew Kelley&lt;/a&gt;.
 He works on Zig full time and interacts frequently with the &lt;a href=&quot;https://github.com/ziglang/zig/wiki/Community&quot;&gt;community&lt;/a&gt;,
