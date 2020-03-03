@@ -1,4 +1,57 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Ian Clare]]></title><description><![CDATA[I blog about stuff.]]></description><link>https://iclare.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 26 Feb 2020 13:23:51 GMT</lastBuildDate><item><title><![CDATA[WebAssembly]]></title><description><![CDATA[WebAssembly is a low level language that runs with
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Ian Clare]]></title><description><![CDATA[I blog about stuff.]]></description><link>https://iclare.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 03 Mar 2020 20:35:32 GMT</lastBuildDate><item><title><![CDATA[Zig]]></title><description><![CDATA[I heard about the Zig programming language, about a
+year ago. In short, Zig is a high performance language with tight C integration
+that…]]></description><link>https://iclare.github.io/contributing-to-zig/</link><guid isPermaLink="false">https://iclare.github.io/contributing-to-zig/</guid><pubDate>Tue, 03 Mar 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;I heard about the &lt;a href=&quot;https://ziglang.org/&quot;&gt;Zig&lt;/a&gt; programming language, about a
+year ago. In short, Zig is a high performance language with tight C integration
+that values simplicity, explicitness, and control. I’ve always been interested
+in high performance and low level programming, so Zig caught my interest. What
+I also like about Zig is that you do not need to learn and use additional
+syntax or keywords, or shift your programming style to convince the language
+that you know what you’re doing &lt;a href=&quot;https://andrewkelley.me/post/unsafe-zig-safer-than-unsafe-rust.html&quot;&gt;Unsafe Zig is Safer than Unsafe&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;With Zig, the priority is not just to have a safer language, but also
+to be a small simple language that has no hidden control flow. All control flow
+is made explicit in Zig. Zig also gives you full control over memory, as well
+as making it obvious when anything is going to allocate memory. Zig allows you
+to create your own allocators &lt;a href=&quot;https://ziglang.org/#toc-Manual-memory-management&quot;&gt;manual memory management&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;While Zig may be an easy language to learn (with just a 500 line file
+describing its grammar, &lt;a href=&quot;https://ziglang.org/documentation/master/#Grammar&quot;&gt;Grammar file&lt;/a&gt;)
+the project is still changing at a fast pace. the last major release &lt;code class=&quot;language-text&quot;&gt;0.5.0&lt;/code&gt;
+came just a few months after the previous major release.&lt;/p&gt;
+&lt;p&gt;Zig doesn’t try to compete with languages like Rust or C++, instead it is meant
+to compete with C, and takes advantage of its ecosystem. Among other C related features,
+Zig also ships with ability to translate C into Zig.&lt;/p&gt;
+&lt;p&gt;Zig’s community is another reason why I took interest in the language.
+Zig was created by &lt;a href=&quot;https://andrewkelley.me/&quot;&gt;Andrew Kelley&lt;/a&gt;.
+He works on Zig full time and interacts frequently with the &lt;a href=&quot;https://github.com/ziglang/zig/wiki/Community&quot;&gt;community&lt;/a&gt;,
+you’ll usually see him answering question on the IRC, or working on Zig
+on his &lt;a href=&quot;https://www.twitch.tv/andrewrok&quot;&gt;Twitch channel&lt;/a&gt;.
+Zig is pretty open to contribution, and has a receptive community.
+Zig’s &lt;a href=&quot;https://github.com/ziglang/zig/blob/master/CONTRIBUTING.md&quot;&gt;CONTRIBUTING.md&lt;/a&gt;
+basically has no restrictions other than suggesting you add a test case for
+your changes.&lt;/p&gt;
+&lt;p&gt;I wanted to learn Zig and get involved in the community so I looked into open
+issues that were labeled contributor friendly.&lt;/p&gt;
+&lt;p&gt;I ended up submitting a WIP PR related to the C to Zig translation feature.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/ziglang/zig/pull/4604&quot;&gt;WIP Detect number literals from macro substitution&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I wasn’t able to completely address the issue I was fixing, although it seemed
+pretty simple on the surface, it actually took quite a bit of time setting up
+Zig, and reading the code that was already there. Zig is wrapping clang’s AST
+API, but did not include the functions I needed to be able to detect whether an
+integer literal came from a macro substitution, so I had to do some reading of
+the clang API as well.&lt;/p&gt;
+&lt;p&gt;In retrospect I was probably way too ambitious taking this on considering how
+hard my current semester in has been, but I wanted a fun challenge. Thankfully, the
+Zig’s creator architects his code so that it is easy to contribute to the
+higher level aspects of the project.&lt;/p&gt;
+&lt;p&gt;I actually had quite a bit more code than what I submitted in the pull request,
+but I realized I was making pretty big assumptions, and probably should submit
+what I already had just to make sure I was heading in the right direction.&lt;/p&gt;
+&lt;p&gt;In the pull request at the moment, while I’m able to determine that an integer
+literal came from a macro, I do not yet get the name of the macro and
+substitute that in place of the integer literal. I wrote a solution which
+unfortunately depended on clang/lexer, which is not used anywhere else in the
+project, so I decided so rip that out and ask for feedback on what I had up to
+detecting int literal macros.&lt;/p&gt;
+&lt;p&gt;I hope to gain some feedback soon. Be on the look out for part 2 of this post if this interested you.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[WebAssembly]]></title><description><![CDATA[WebAssembly is a low level language that runs with
 near-native performance. It is not intended to be written by hand,
 and so provides a…]]></description><link>https://iclare.github.io/webassembly/</link><guid isPermaLink="false">https://iclare.github.io/webassembly/</guid><pubDate>Wed, 26 Feb 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;WebAssembly is a low level language that runs with
 near-native performance. It is not intended to be written by hand,
