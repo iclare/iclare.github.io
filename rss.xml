@@ -1,49 +1,51 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Ian Clare]]></title><description><![CDATA[I blog about stuff.]]></description><link>https://iclare.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 04 Mar 2020 14:24:55 GMT</lastBuildDate><item><title><![CDATA[quiz1]]></title><description><![CDATA[1) Please expand each of the following acronyms (1 pt each): 1.1) IRC internet relay chat 1.2) FOSS free or open source sofwtare 1.3) OLPC…]]></description><link>https://iclare.github.io/quiz-01/</link><guid isPermaLink="false">https://iclare.github.io/quiz-01/</guid><pubDate>Wed, 04 Mar 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;1) Please expand each of the following acronyms (1 pt each):&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;1.1) IRC internet relay chat&lt;/li&gt;
-&lt;li&gt;1.2) FOSS free or open source sofwtare&lt;/li&gt;
-&lt;li&gt;1.3) OLPC one laptop per child&lt;/li&gt;
-&lt;li&gt;1.4) FSF free software foundation&lt;/li&gt;
-&lt;li&gt;1.5) PR pull request&lt;/li&gt;
-&lt;/ul&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Ian Clare]]></title><description><![CDATA[I blog about stuff.]]></description><link>https://iclare.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 04 Mar 2020 14:29:46 GMT</lastBuildDate><item><title><![CDATA[quiz1]]></title><description><![CDATA[1) Please expand each of the following acronyms (1 pt each): 2) What is the name of the version control system we use in this course? (1 pt…]]></description><link>https://iclare.github.io/quiz-01/</link><guid isPermaLink="false">https://iclare.github.io/quiz-01/</guid><pubDate>Wed, 04 Mar 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;1) Please expand each of the following acronyms (1 pt each):&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;-   1.1) IRC internet relay chat
+-   1.2) FOSS free or open source sofwtare
+-   1.3) OLPC one laptop per child
+-   1.4) FSF free software foundation
+-   1.5) PR pull request&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;2) What is the name of the version control system we use in this course? (1 pt)&lt;/p&gt;
-&lt;p&gt;git&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;git&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;&lt;em&gt;Bonus:&lt;/em&gt; Give the name for another version control system. (1pt)&lt;/p&gt;
-&lt;p&gt;mercurial&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;mercurial&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;3) Please give the one-word name for the interface used in the OLPC computers &amp;#x26; our VMs? (1 pt)&lt;/p&gt;
-&lt;p&gt;sugar&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;sugar&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;4) &lt;em&gt;Bonus:&lt;/em&gt; What is the short, two-letter name for the OLPC computers used in the final project for this class? (1 pt)&lt;/p&gt;
-&lt;p&gt;XO&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;XO&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;5) We refer to sites that host source code as “forges”. What is the name of the primary forge used in this course? (1 pt)&lt;/p&gt;
-&lt;p&gt;github&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;github&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;6) &lt;em&gt;Bonus:&lt;/em&gt; Name the other forge we have used? (1pt)&lt;/p&gt;
-&lt;p&gt;gitlab&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;gitlab&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;7) &lt;em&gt;Bonus:&lt;/em&gt; Name another forge, one we have not used for this course. (1pt)&lt;/p&gt;
-&lt;p&gt;gitbucket&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;gitbucket&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;Multiple choice&lt;/p&gt;
 &lt;p&gt;8) The GitHub-specific term to describe the process in which, starting from one repository hosted at GitHub, one creates another repository, also hosted at GitHub, but under the control of a different user account.&lt;/p&gt;
 &lt;p&gt;a) repository b) branch c) remote d) fork e) clone&lt;/p&gt;
-&lt;p&gt;fork&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;fork&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;9) A collection of related commit objects&lt;/p&gt;
 &lt;p&gt;a) repository b) branch c) remote d) fork e) clone&lt;/p&gt;
-&lt;p&gt;branch&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;repository&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;10) A separate, but related, repository from which one may fetch or pull changes into one’s own working copy, and to which in some instances one might have permission to push changes from one’s own working copy.&lt;/p&gt;
 &lt;p&gt;a) repository b) branch c) remote d) fork e) clone&lt;/p&gt;
-&lt;p&gt;remote&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;remote&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;11) The general term in git for making an exact, working copy of another repository in which changes can be tracked separately between the two versions.&lt;/p&gt;
 &lt;p&gt;a) repository b) branch c) remote d) fork e) clone&lt;/p&gt;
-&lt;p&gt;clone&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;clone&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;12) A namespace in which one can track changes to a set of files within a given repository.
 This term applies both to the action and to the result of the action.
 Comparisons (‘diffs’ or patches) can be made between different such namespaces.&lt;/p&gt;
 &lt;p&gt;a) repository b) branch c) remote d) fork e) clone&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;branch&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;ol start=&quot;13&quot;&gt;
 &lt;li&gt;We’ve discussed “the four R’s” as a shorthand for the freedoms attached to software for it to be considered “free” or “open source”. List or describe each. (eg, if you can remember the “r” word you can just give that. If you cannot remember the term, but can describe the freedom involved, that also counts). Various “r” words are roughly synonymous for some of the freedoms, but we’re counting freedoms here, not synonyms so if you give two (or more) terms for the same freedom, it only counts once. For the purposes of this quiz, “remix” does not count as describing any of them. (1pt each)&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;10.1) run&lt;/p&gt;
-&lt;p&gt;10.2) read&lt;/p&gt;
-&lt;p&gt;10.3) repair&lt;/p&gt;
-&lt;p&gt;10.4) redistribute&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Zig]]></title><description><![CDATA[I heard about the Zig programming language, about a
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;10.1) run
+
+10.2) read
+
+10.3) repair
+
+10.4) redistribute&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Zig]]></title><description><![CDATA[I heard about the Zig programming language, about a
 year ago. In short, Zig is a high performance language with tight C integration
 that…]]></description><link>https://iclare.github.io/contributing-to-zig/</link><guid isPermaLink="false">https://iclare.github.io/contributing-to-zig/</guid><pubDate>Tue, 03 Mar 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;I heard about the &lt;a href=&quot;https://ziglang.org/&quot;&gt;Zig&lt;/a&gt; programming language, about a
 year ago. In short, Zig is a high performance language with tight C integration
