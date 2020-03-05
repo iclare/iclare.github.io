@@ -1,4 +1,52 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Ian Clare]]></title><description><![CDATA[I blog about stuff.]]></description><link>https://iclare.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 04 Mar 2020 14:29:51 GMT</lastBuildDate><item><title><![CDATA[quiz1]]></title><description><![CDATA[1) Please expand each of the following acronyms (1 pt each): 2) What is the name of the version control system we use in this course? (1 pt…]]></description><link>https://iclare.github.io/quiz-01/</link><guid isPermaLink="false">https://iclare.github.io/quiz-01/</guid><pubDate>Wed, 04 Mar 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;1) Please expand each of the following acronyms (1 pt each):&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Ian Clare]]></title><description><![CDATA[I blog about stuff.]]></description><link>https://iclare.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 05 Mar 2020 18:08:50 GMT</lastBuildDate><item><title><![CDATA[Commarch Proposal]]></title><description><![CDATA[Team Members Cobey Adekanbi - cja1093@rit.edu Ian Clare - idc6209@rit.edu Project We decided to analyze React. ReactJS is a Javascript…]]></description><link>https://iclare.github.io/commarch/</link><guid isPermaLink="false">https://iclare.github.io/commarch/</guid><pubDate>Thu, 05 Mar 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;Team Members&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Cobey Adekanbi - cja1093@rit.edu&lt;/li&gt;
+&lt;li&gt;Ian Clare - idc6209@rit.edu&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;Project&lt;/h1&gt;
+&lt;p&gt;We decided to analyze React.&lt;/p&gt;
+&lt;p&gt;ReactJS is a Javascript Library for constructing user interfaces. It’s very
+versatile and the component-based architecture makes development more
+predictable and fluid.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/facebook/react&quot;&gt;React’s public repository&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;We felt that an analysis of React would gain us some interesting insights into
+the development of a project that gained massive popularity over a short
+period of time.&lt;/p&gt;
+&lt;h1&gt;Roles&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Ian - Code and contribution analysis&lt;/li&gt;
+&lt;li&gt;Cobey - Community and documentation history&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;Upstream Mentors&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Dan Abramov - &lt;a href=&quot;https://twitter.com/dan_abramov&quot;&gt;https://twitter.com/dan_abramov&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Jordan Walke - &lt;a href=&quot;https://twitter.com/jordwalke&quot;&gt;https://twitter.com/jordwalke&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;Easy Parts&lt;/h1&gt;
+&lt;p&gt;well documented
+lots of experts on the project history / contributors
+history is well documented&lt;/p&gt;
+&lt;h1&gt;Addressing Challenges&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;The size of the project is large.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Use git by a truck, which is a fork of git by a bus for large projects.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;There are many contributors, and multiple communication streams.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Communicate directly with the main experts on React.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;React has been rapidly evolving as a project and community.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Compare our findings with previous analysis on React&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[quiz1]]></title><description><![CDATA[1) Please expand each of the following acronyms (1 pt each): 2) What is the name of the version control system we use in this course? (1 pt…]]></description><link>https://iclare.github.io/quiz-01/</link><guid isPermaLink="false">https://iclare.github.io/quiz-01/</guid><pubDate>Wed, 04 Mar 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;1) Please expand each of the following acronyms (1 pt each):&lt;/p&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;-   1.1) IRC internet relay chat
 -   1.2) FOSS free or open source sofwtare
 -   1.3) OLPC one laptop per child
