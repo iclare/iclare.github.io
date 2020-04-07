@@ -1,9 +1,12 @@
 module.exports = {
   siteMetadata: {
-    title: `Ian Clare`,
+    title: `iclare`,
     author: `Ian Clare`,
-    description: `I blog about stuff.`,
+    description: `This is my amazing personal blog and wiki`,
     siteUrl: `https://iclare.github.io`,
+    social: {
+      github: `iclare`,
+    },
   },
   plugins: [
     {
